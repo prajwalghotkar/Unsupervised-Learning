@@ -14,7 +14,7 @@ You as a ML expert have to create a cluster model where drivers cab be grouped t
 
 # Key issues
 
-Drivers will be incentivized based on the cluster, s grouping hs to be accurate
+Drivers will be incentivized based on the cluster, so grouping has to be accurate
 
 # Data volume
 
