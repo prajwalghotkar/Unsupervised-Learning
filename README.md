@@ -18,13 +18,13 @@ Drivers will be incentivized based on the cluster, s grouping hs to be accurate
 
 # Data volume
 
-> 4000 records - file driver-data.csv
+* 4000 records - file driver-data.csv
 
 Fields in Data
 
-  > id: Unique ID of the driver
-  > Mean_dist_day: Mean distance driven by driver perday
-  > mean_over_speed_perc: Mean percentage of time a driver was > 5 mphover the speedlimit
+  * id: Unique ID of the driver
+  * Mean_dist_day: Mean distance driven by driver perday
+  * mean_over_speed_perc: Mean percentage of time a driver was > 5 mphover the speedlimit
 
 # Business benefits
 
